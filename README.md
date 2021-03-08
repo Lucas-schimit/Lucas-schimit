@@ -1,4 +1,4 @@
-### Dear All, My name is Lucas 👋
+### Dear All, My name is Lucas Alves Schimit 👋
 
 <!--
 **Lucas-schimit/Lucas-schimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
