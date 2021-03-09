@@ -4,7 +4,6 @@
  
 ## I'm Lucas Alves Schimit!
  
-- 👨🏿‍💻 I'm from Varzea Paulista, SP.
 - 📚 I have a degree in computer engineering.
 - 💻 I'm currently making the bootamp in the Generation (Java Developer Full Stack).
 - ☣️ And i like to participated the new challenges.
