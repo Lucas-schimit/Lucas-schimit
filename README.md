@@ -1,16 +1,16 @@
-### Dear All, My name is Lucas Alves Schimit 👋
-
-<!--
-**Lucas-schimit/Lucas-schimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="400" height="400" src="https://i.imgur.com/OV4tGL8.png">
+ 
+# Welcome to my gitHub!
+ 
+## I'm Lucas Alves Schimit!
+ 
+- 👨🏿‍💻 I'm from Varzea Paulista, SP.
+- 📚 I have a degree in computer engineering.
+- 💻 I'm currently making the bootamp in the Generation (Java Developer Full Stack).
+- ☣️ And i like to participated the new challenges.
+ 
+ 
+## Contact me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Lucas-schimit)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/lucas-alves-schimit-611509142)
+[
